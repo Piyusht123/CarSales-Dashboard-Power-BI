@@ -2,7 +2,7 @@
 
 This repository contains a Power BI dashboard designed to provide actionable insights into car sales performance. The dashboard visualizes key metrics such as sales trends, budgets, and growth rates, helping stakeholders make data-driven decisions.
 
-![Dashboard Screenshot](CarSales-Power-BI-Dashboard-Screenshot-1.png)
+![Dashboard Screenshot](https://github.com/Piyusht123/CarSales-Dashboard-Power-BI/blob/main/CarSales-Power%20BI-Dashboard-Screenshot%201.png?raw=true)
 
 ---
 
@@ -48,7 +48,7 @@ The Car Sales Dashboard is tailored for automotive businesses and stakeholders t
 
 ## Screenshot 📸
 
-![Car Sales Dashboard](CarSales-Power-BI-Dashboard-Screenshot-1.png)
+![Car Sales Dashboard](https://github.com/Piyusht123/CarSales-Dashboard-Power-BI/blob/main/CarSales-Power%20BI-Dashboard-Screenshot%201.png?raw=true)
 
----
+
 
